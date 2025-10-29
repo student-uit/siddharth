@@ -32,7 +32,7 @@ Currently, I’m exploring ways to **integrate Artificial Intelligence** into mo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddharth-srivastava-718a33317)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]([your-portfolio-link](https://transcendent-horse-707863.netlify.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-netlify-project-url.netlify.app)  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivsrivastav582@gmail.com)  
 
