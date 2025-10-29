@@ -9,7 +9,7 @@
 ---
 
 ### 💬 About Me  
-Aspiring **Software Engineer** & **Tech Enthusiast** currently pursuing **B.Tech**.  
+Aspiring **Software Engineer** & **Tech Enthusiast** currently pursuing **B.Tech**. 
 I’m a **MERN Stack Developer** with a strong interest in **AI integration** to solve **real-world problems**.  
 Passionate about creating scalable, modern web apps and continuously learning new technologies.
 
